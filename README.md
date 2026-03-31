@@ -1,6 +1,5 @@
-# TAVISHIUMRAO25BAI11019
-This project is based on machine learning and data search algorithm
 # 💳 Loan Approval Prediction AI
+This project is based on machine learning and data search algorithm
 
 ## 📌 Project Overview
 
